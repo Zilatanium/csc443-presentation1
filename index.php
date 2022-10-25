@@ -22,12 +22,12 @@
 
 </head>
 <body>
-<div class="www-presentation-header"><img src="../images/scsu-logo-compact-blue.png" style="height: 70px;"/></ul><div class="www-presentation-header-text"></div></div>
+<div class="www-presentation-header"><img src="./images/scsu-logo-compact-blue.png" style="height: 70px;"/></ul><div class="www-presentation-header-text"></div></div>
 <div class="slide titlepage">
   <h1 class="title"><br><font color = "#000080"></font></h1>
-  <br><br><img class="right-side-image" src="../images/Joe.jpg"/>
+  <br><br><img class="right-side-image" src="./images/Joe.jpg"/>
 
-  <p class="date">CSC 443: Presentation 1</p>
+  <p class="date">CSC 443: Presentation 2</p>
   <p class="author"><a href="mailto:Delgadoj11@southernct.edu?subject=CSC443">Joseph Delgado</a>
   Computer Science Department Senior <br><font color = "#8080FF" style="text-shadow:-1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;">Southern Connecticut State University</font></p>
   <button id="view-fullscreen" onclick="goFullscreen">*</button>
@@ -109,8 +109,8 @@
       <li>Operating System (OS) - Windows 11</li>
       <li>Integrated Development Environment (IDE) - Visual Studio Code</li>
       <li>DevOps - Git / GitHub</li>
-      <li>Front End Framework - React / Next.js</li>
-      <li>Back End Framework - Node.js</li>
+      <li>FullStack - PHP</li>
+      <li>Server - Droplet Apache</li>
     </ul>
 </div>
 
@@ -118,34 +118,28 @@
   <br><br><br>
   <h1>2.2: <i>Diagram Development Environment (Physical / Logical)</i></h1>
   <ul class="incremental">
-    <img src="../images/Diagram 2.2.png" alt="" style="width:50%; height: 50%;"/>
+    <img src="./images/Diagram 2.2.png" alt="" style="width:50%; height: 50%;"/>
   </ul>
 </div>
 
 <div class="section slide level1" id="2.3">
   <br><br><br>
-  <h1>2.3: <i>Development Environment in Relation to the Public Internet</i>?</h1>
+  <h1>2.3: <i>Describe your experience with Lab 1 (client-side dynamic table of squares and cubes 1-30)</i></h1>
   <ul class="incremental">
-    <h3 style="font-style: italic;">Not all Environments are the Same </h3>
-      <p>People all around the world connected to the internet may be using a number of different combinations of IDE, OS,
-        Browser, etc... This makes it important to have some sort of agreed on use of transferring data from on computer to
-        the next. An example of this would be the Open System Interconnection Model:
-      </p>
-        <li>Physical Layer - Raw bit stream</li>
-        <li>Data Link Layer - Format of data</li>
-        <li>Network Layer - Physical path</li>
-        <li>Transport Layer - Transmits data</li>
-        <li>Session Layer - Controls ports and session</li>
-        <li>Presentation Layer - Data is in usable format</li>
-        <li>Application - Human-computer interaction (Environment)</li>
+    <h3 style="font-style: italic;">JavaScript Client-Side</h3>
+        <li>Had to whiteboard what I wanted to do beforehand before actually programming everything</li>
+        <li>Sudo code was done</li>
+        <li>Thought the client-side dynamic squares and cubes and the algorithim for it was fairly easy</li>
+        <li>Definitely still needed to look things up like event handlers for HTML and the creation of elements</li>
+        <li>After getting the creation of elements using JavaScript figured out, I was able to use an algorithim with a time complexity of O(1)</li>
   </ul>
 </div>
 
 <div class="section slide level1" id="2.4">
   <br><br><br>
-  <h1>2.4: <i>Diagram of Development Environment's Relationship to the Public Internet</i></h1>
+  <h1>2.4: <i>Solution to Lab 1</i></h1>
   <ul class="incremental">
-    <img src="../images/Diagram 2.4.png" alt="" style="width:50%; height: 50%;"/>
+    <img src="./images/Diagram 2.4.png" alt="" style="width:50%; height: 50%;"/>
   </ul>
 </div>
 
@@ -164,7 +158,7 @@
 <div class="section slide level1" id="2.6">
   <br><br><br>
   <h1>2.6 <i>Site Host Diagram</i></h1>
-    <ul><img src="../images/Diagram 2.6.png" alt="" style="width:50%; height: 50%;"/></ul>
+    <ul><img src="./images/Diagram 2.6.png" alt="" style="width:50%; height: 50%;"/></ul>
 
   <a class="email" href="mailto:Delgadoj11@southernct.edu">
   <ul style=
